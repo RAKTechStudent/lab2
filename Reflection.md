@@ -1,9 +1,5 @@
 # My Reflection / Blog
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-Here's a reminder of how you do the link above as code.
-```markdown
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-```
+In my blog, I will be showing people how to use Github. This video will show people the importance of forking and sending pull requests. Here, I added a course description for IST 402. I show in my video, step by step how to do this to the ist402 file. However, I am hoping that after watching my video, they will be able to do it to any file on Github. Overall, I think that this process is easy and efficient. It is a good idea and in my opinion necessary for software developers to communicate and make these changes. 
 
-Good luck!
+*Screencast submission* - [YouTube video by Rebecca Kurfehs](https://youtu.be/2WoV2YPhzCw)
+
